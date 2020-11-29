@@ -1,0 +1,42 @@
+ body{
+            background-color: #cccccc;
+            }
+            #space{
+                width:400px;
+                margin:auto;
+                background:#00adee;
+                margin-top:50px;
+                padding:5px;
+             }
+            #space form{
+                padding:10px;
+                border:1px dotted white;
+                }
+           #space h1{
+                text-align:center;
+                background:olive;
+                color:white;
+                padding:10px;
+                border-radius:50px;
+            }
+            #space input{
+                padding:5px;
+                margin:5px;
+                border:10px;
+
+            } 
+            #space input[type=submit]{
+                background:orange;
+                text-align:center;
+              }
+              
+              #main{
+                text-align: center;
+                margin-top:200px; 
+                margin-left:400px;
+                padding:20px;
+                border:1px solid rgba(158, 156, 156, 0.603);
+                width:500px;
+                height:200px;
+                display: none;
+            }
